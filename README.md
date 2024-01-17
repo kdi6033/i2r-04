@@ -3,7 +3,7 @@ WiFi Bluetooth PLC (4채널 릴레이, , ESP32) KC인증
 ![i2r-04-포트설명](https://drive.google.com/uc?id=1IUwbM4Rgqsmrh0kV3bxDot3-EKTEZvDn)
 # 사양
 - 정격전압 : 5V DC, 보드내에서는 5V로 설계했습니다.
-- 입력전압 : 7~26V DC Free Volt, 7~26V 사이 전압을 공급하면         레귤레이터에서 5V 로 전원을 공급합니다.
+- 입력전압 : 7 ~ 26V DC Free Volt, 7 ~ 26V 사이 전압을 공급하면         레귤레이터에서 5V 로 전원을 공급합니다.
 - 작동온도 : -40 ℃ - 85 ℃
 - 입력 : 8개, 접점만 연결되면 동작합니다. 별도의 전압을 인가하면 고장의 원인이 됩니다.
 - 출력 : 1개는 30A 250VAC/30VDC
