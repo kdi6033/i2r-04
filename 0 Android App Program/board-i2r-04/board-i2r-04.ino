@@ -156,14 +156,12 @@ class MyServerCallbacks: public BLEServerCallbacks {
     void onConnect(BLEServer* pServer) {
       Serial.println("Device connected");
       ble.isConnected = true;
-      // wifi.selectMqtt = false;
       event = 1;
     }
 
     void onDisconnect(BLEServer* pServer) {
       Serial.println("Device disconnected");
       ble.isConnected = false;
-      // wifi.selectMqtt = true;
       BLEDevice::startAdvertising();  // Start advertising again after disconnect
     }
 };
