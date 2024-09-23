@@ -1,7 +1,7 @@
 # i2r-04
 WiFi Bluetooth PLC (4채널 릴레이, , ESP32) KC인증  
 인터넷 환경에서 원격으로 모니터링/제어 할수 있는 PLC 입니다.  
-![i2r-04-포트설명](https://drive.google.com/uc?id=1IUwbM4Rgqsmrh0kV3bxDot3-EKTEZvDn)
+
 # 사양
 - 정격전압 : 5V DC, 보드내에서는 5V로 설계했습니다.
 - 입력전압 : 7 ~ 26V DC Free Volt, 7 ~ 26V 사이 전압을 공급하면         레귤레이터에서 5V 로 전원을 공급합니다.
