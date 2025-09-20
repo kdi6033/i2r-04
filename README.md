@@ -49,3 +49,4 @@ IoT MQTT Panel을 이용해 스마트폰으로 보드의 Relay를 제어 한다.
 
 # i2r-04-motor
 <img width="2247" height="1038" alt="i2r-04-motor - 복사본" src="https://github.com/user-attachments/assets/e2b28820-5f75-4787-9c6b-06e767e0ff05" />
+<img src="https://github.com/user-attachments/assets/e2b28820-5f75-4787-9c6b-06e767e0ff05" alt="i2r-04-motor" width="400">
