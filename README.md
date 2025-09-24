@@ -49,7 +49,7 @@ IoT MQTT Panel을 이용해 스마트폰으로 보드의 Relay를 제어 한다.
 
 # i2r-04-motor 
 <img src="https://github.com/user-attachments/assets/e2b28820-5f75-4787-9c6b-06e767e0ff05" alt="i2r-04-motor" width="500">
-
+<img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/7e89cdee-cd46-428f-a51d-386c9fe9e315" />
 (주)우성하이텍 WSM-4035 모터 제어
 
 📌 제품 개요
@@ -88,8 +88,6 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 - ↺ 반시계 방향: 동작 범위를 넓힘
 5. 테스트
 - 전원을 다시 넣고 열림/닫힘 동작을 반복하여 정확히 원하는 지점에서 멈추는지 확인합니다.
-
-<img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/7e89cdee-cd46-428f-a51d-386c9fe9e315" />
 
 📌 회로도    
 다음과 같이 배선하세요 총 4개의 모터를 제어 할 수 있습니다.    
