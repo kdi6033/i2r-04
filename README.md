@@ -91,3 +91,5 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 
 <img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/7e89cdee-cd46-428f-a51d-386c9fe9e315" />
 
+📌 회로도
+<img src="https://github.com/user-attachments/assets/3a02ae80-b67b-456e-95b6-7b2a51102b90" alt="회로도" width="500">
