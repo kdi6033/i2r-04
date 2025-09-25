@@ -100,7 +100,7 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 
 <img src="https://github.com/user-attachments/assets/15416181-7861-4fea-976b-fcb33cc896f0" alt="회로도" width="700">
 
-주요 기능
+📌 주요 기능
 - RP2040 듀얼코어 MCU 내장 → 외부 보드 없이 단독 동작 가능
 - 3.5인치 480×320 해상도 TFT 디스플레이 → 선명한 그래픽 표현
 - 정전식 터치스크린 → 직관적인 UI 제어 가능
@@ -110,7 +110,7 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 - GPIO 확장 핀 제공 → 센서, 액추에이터 등 외부 장치 연결 가능
 - HMI 전용 설계 → IoT, 스마트 제어, 교육용 UI 개발에 최적화
 
-GPIO Pin Definition
+⚙️GPIO Pin Definition
 
 
 | Pin | Function       | Pin | Function               |
@@ -128,3 +128,19 @@ GPIO Pin Definition
 
 <img src="https://github.com/user-attachments/assets/de3ce3e5-becb-4446-8a8b-4344aabcc9b7" alt="조도센서" width="350">
 
+BH1750FVI 칩을 사용한 디지털 조도 센서 모듈로, I2C 인터페이스를 통해 간단하게 광량(lux)을 측정할 수 있습니다.
+직접 ADC 변환이나 보정 과정이 필요 없으며, 다양한 IoT 및 임베디드 프로젝트에서 주변 밝기 감지 및 자동 제어 용도로 활용할 수 있습니다.
+
+📌 주요 기능
+- I2C 인터페이스 → 간단한 연결 및 통신
+- 16bit A/D 변환기 내장 → 고해상도 측정 지원
+- Lux 단위 직접 출력 → 보정/계산 과정 불필요
+- 인간 시각 특성과 유사한 스펙트럼 감도 → 실제 체감 밝기에 근접
+- 넓은 측정 범위 (1 ~ 65535 lux) → 저조도부터 강한 빛까지 커버
+- 자동화/IoT 제어에 적합 → 조명 제어, 화면 밝기 자동 조절 등
+
+⚙️ 사양
+- 칩셋: ROHM BH1750FVI
+- 동작 전압: 3.0V ~ 5.0V
+- 데이터 범위: 0 ~ 65535 lux
+- 모듈 크기: 13.9mm × 18.5mm
