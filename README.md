@@ -97,6 +97,7 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 ## CrowPanel Pico Display 3.5" HMI 모듈
 
 이 보드는 RP2040 MCU + 3.5" 480×320 TFT LCD + 정전식 터치스크린이 결합된 HMI(Human Machine Interface) 모듈입니다. LVGL, C/C++, MicroPython을 지원하여 다양한 UI 및 IoT 응용에 활용할 수 있습니다.
+
 <img src="https://github.com/user-attachments/assets/15416181-7861-4fea-976b-fcb33cc896f0" alt="회로도" width="500">
 
 주요 기능
