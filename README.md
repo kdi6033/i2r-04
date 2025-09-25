@@ -109,3 +109,15 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 - C/C++ & MicroPython 개발 환경 → 초보자부터 전문가까지 사용 가능
 - GPIO 확장 핀 제공 → 센서, 액추에이터 등 외부 장치 연결 가능
 - HMI 전용 설계 → IoT, 스마트 제어, 교육용 UI 개발에 최적화
+
+| Pin | Function       | Pin | Function               |
+| --- | -------------- | --- | ---------------------- |
+| P1  | GP0 / UART0 TX | P9  | GP19                   |
+| P2  | GP1 / UART0 RX | P10 | GP20 / I2C0 SDA        |
+| P3  | GP2 / I2C1 SDA | P11 | GP21 / I2C0 SCL        |
+| P4  | GP3 / I2C1 SCL | P12 | GP26 / ADC1 / I2C1 SDA |
+| P5  | GP4 / UART1 TX | P13 | GP27 / ADC0 / I2C1 SCL |
+| P6  | GP5 / UART1 TX | P14 | GP28 / ADC2            |
+| P7  | GP6 / I2C1 SDA | P15 | GND                    |
+| P8  | GP7 / I2C1 SCL | P16 | VCC 3V3                |
+
