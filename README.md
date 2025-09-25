@@ -42,7 +42,7 @@ IoT MQTT Panel을 이용해 스마트폰으로 보드의 Relay를 제어 한다.
 이 프로그램을 이용해 인터넷 상에서 원격으로 입력i과 출력을 제어 할 수 있습니다.
 [![MQTT 통신 연결하기](https://img.youtube.com/vi/u4NejCu5xnw/0.jpg)](https://youtu.be/u4NejCu5xnw)
 
-# i2r-04-motor 
+# i2r-04-motor IoT 모터제어
 <img src="https://github.com/user-attachments/assets/e2b28820-5f75-4787-9c6b-06e767e0ff05" alt="i2r-04-motor" width="500">
 <img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/7e89cdee-cd46-428f-a51d-386c9fe9e315" />    
 
