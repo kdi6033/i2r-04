@@ -110,6 +110,9 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 - GPIO 확장 핀 제공 → 센서, 액추에이터 등 외부 장치 연결 가능
 - HMI 전용 설계 → IoT, 스마트 제어, 교육용 UI 개발에 최적화
 
+GPIO Pin Definition
+
+
 | Pin | Function       | Pin | Function               |
 | --- | -------------- | --- | ---------------------- |
 | P1  | GP0 / UART0 TX | P9  | GP19                   |
