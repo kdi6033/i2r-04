@@ -51,7 +51,7 @@ IoT MQTT Panel을 이용해 스마트폰으로 보드의 Relay를 제어 한다.
 <img src="https://github.com/user-attachments/assets/e2b28820-5f75-4787-9c6b-06e767e0ff05" alt="i2r-04-motor" width="500">
 <img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/7e89cdee-cd46-428f-a51d-386c9fe9e315" />    
 
-(주)우성하이텍 WSM-4035 모터 제어
+## (주)우성하이텍 WSM-4035 모터 제어
 
 📌 제품 개요
 WSM-4035는 환기창(루버, 온실, 축사 등)의 개폐 제어를 위해 사용되는 DC24V 구동 모터입니다.
@@ -93,3 +93,17 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 📌 회로도    
 다음과 같이 배선하세요 총 4개의 모터를 제어 할 수 있습니다.    
 <img src="https://github.com/user-attachments/assets/3a02ae80-b67b-456e-95b6-7b2a51102b90" alt="회로도" width="500">
+
+## CrowPanel Pico Display 3.5" HMI 모듈
+
+이 보드는 RP2040 MCU + 3.5" 480×320 TFT LCD + 정전식 터치스크린이 결합된 HMI(Human Machine Interface) 모듈입니다. LVGL, C/C++, MicroPython을 지원하여 다양한 UI 및 IoT 응용에 활용할 수 있습니다.
+
+주요 기능
+- RP2040 듀얼코어 MCU 내장 → 외부 보드 없이 단독 동작 가능
+- 3.5인치 480×320 해상도 TFT 디스플레이 → 선명한 그래픽 표현
+- 정전식 터치스크린 → 직관적인 UI 제어 가능
+- LVGL 지원 → 버튼, 슬라이더, 차트, 키보드 등 고급 GUI 구성
+- USB-C 포트 → 전원 공급 및 펌웨어 업로드 지원
+- C/C++ & MicroPython 개발 환경 → 초보자부터 전문가까지 사용 가능
+- GPIO 확장 핀 제공 → 센서, 액추에이터 등 외부 장치 연결 가능
+- HMI 전용 설계 → IoT, 스마트 제어, 교육용 UI 개발에 최적화
