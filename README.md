@@ -124,3 +124,5 @@ GPIO Pin Definition
 | P7  | GP6 / I2C1 SDA | P15 | GND                    |
 | P8  | GP7 / I2C1 SCL | P16 | VCC 3V3                |
 
+<img src="https://github.com/user-attachments/assets/de3ce3e5-becb-4446-8a8b-4344aabcc9b7" alt="조도센서" width="350">
+<img width="269" height="188" alt="image" src="https://github.com/user-attachments/assets/de3ce3e5-becb-4446-8a8b-4344aabcc9b7" />
