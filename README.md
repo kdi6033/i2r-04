@@ -14,10 +14,6 @@ WiFi Bluetooth PLC (4채널 릴레이, , ESP32) KC인증
 와이파이는 2.4G에 연결하세요. 5G는 동작하지 않습니다.
 - RS232 통신 : 보드내에 TTL Level의 rx, tx 단자가 있습니다.
 
-# "Play 스토어" 에서 어플을 다운로드 하세요 프로그램 하지 않아도 원격으로 모니터링/제어 할 수 있습니다.  
-
-다운로드 QR CODE
-![다운로드 QR코드](https://drive.google.com/uc?id=1XC_ZEcT22Erb5ygi2YPTakP9xprLextJ) <br>
 스마트폰에 어플 설치와 와이파이 연결을 보여줍니다. 그림을 크릭하세요  
 [아두이노 소스프로그램 링크](https://github.com/kdi6033/i2r-04/tree/main/0%20Source-Program-IoT/board-i2r-04)  
 [AWS 아두이노 소스프로그램 링크](https://github.com/kdi6033/i2r-04/tree/main/0%20Source-Program-IoT/board-i2r-04-aws)  
