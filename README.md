@@ -51,7 +51,7 @@ IoT MQTT Panel을 이용해 스마트폰으로 보드의 Relay를 제어 한다.
 <img src="https://github.com/user-attachments/assets/e2b28820-5f75-4787-9c6b-06e767e0ff05" alt="i2r-04-motor" width="500">
 <img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/7e89cdee-cd46-428f-a51d-386c9fe9e315" />    
 
-## (주)우성하이텍 WSM-4035 모터 제어
+## 1. (주)우성하이텍 WSM-4035 모터 제어
 
 📌 제품 개요
 WSM-4035는 환기창(루버, 온실, 축사 등)의 개폐 제어를 위해 사용되는 DC24V 구동 모터입니다.
@@ -94,7 +94,7 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 다음과 같이 배선하세요 총 4개의 모터를 제어 할 수 있습니다.    
 <img src="https://github.com/user-attachments/assets/a9e3da2a-086e-427b-ba0d-243f25d9452f" alt="회로도" width="700">
 
-## CrowPanel Pico Display 3.5" HMI 모듈
+## 2. CrowPanel Pico Display 3.5" HMI 모듈
 
 이 보드는 RP2040 MCU + 3.5" 480×320 TFT LCD + 정전식 터치스크린이 결합된 HMI(Human Machine Interface) 모듈입니다. LVGL, C/C++, MicroPython을 지원하여 다양한 UI 및 IoT 응용에 활용할 수 있습니다.
 
@@ -124,5 +124,7 @@ GPIO Pin Definition
 | P7  | GP6 / I2C1 SDA | P15 | GND                    |
 | P8  | GP7 / I2C1 SCL | P16 | VCC 3V3                |
 
+## 3. 조도센서 GY302 BH1750
+
 <img src="https://github.com/user-attachments/assets/de3ce3e5-becb-4446-8a8b-4344aabcc9b7" alt="조도센서" width="350">
-<img width="269" height="188" alt="image" src="https://github.com/user-attachments/assets/de3ce3e5-becb-4446-8a8b-4344aabcc9b7" />
+
