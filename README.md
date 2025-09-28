@@ -24,8 +24,7 @@ WiFi Bluetooth PLC (4채널 릴레이, , ESP32) KC인증
 릴레이에 연결된 ESP32핀은 왼쪽부터 각각 <br>
 출력 : 25 23 22 21 33 32 27 26  <br>
 입력 : 18 19 4 5 21 22 23 15
-![i2r-02-포트설명](https://drive.google.com/uc?id=1X0wcNuqFN-zJ07sOzUsBimr1k4QfJlmA)
-<img src="https://drive.google.com/uc?id=1X0wcNuqFN-zJ07sOzUsBimr1k4QfJlmA" alt="i2r-02-포트설명" width="500">
+<img src="https://drive.google.com/uc?id=1X0wcNuqFN-zJ07sOzUsBimr1k4QfJlmA" alt="i2r-02-포트설명" width="700">
 1) WiFi, BLE 통신  
 ESP32가 탑재되어 WiFi, BLE 통신 가능합니다. WiFi 를 활용해 PC 및 스마트폰에서 4채널 릴레이를
 원격제어 및 모니터링 가능합니다. 
