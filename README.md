@@ -46,6 +46,9 @@ IoT MQTT Panel을 이용해 스마트폰으로 보드의 Relay를 제어 한다.
 <img src="https://github.com/user-attachments/assets/e2b28820-5f75-4787-9c6b-06e767e0ff05" alt="i2r-04-motor" width="500">
 <img width="271" height="186" alt="image" src="https://github.com/user-attachments/assets/7e89cdee-cd46-428f-a51d-386c9fe9e315" />    
 
+<img src="https://github.com/user-attachments/assets/0f3e9294-4de3-43bb-9bb6-6e8d4d6b0958" alt="IoT PLC 모터제어" width="500">
+![24 11 IoT PLC 모터제어](https://github.com/user-attachments/assets/0f3e9294-4de3-43bb-9bb6-6e8d4d6b0958)
+
 ## 1. (주)우성하이텍 WSM-4035 모터 제어
 
 📌 제품 개요
