@@ -150,6 +150,8 @@ BH1750FVI 칩을 사용한 디지털 조도 센서 모듈로, I2C 인터페이�
 - 모듈 크기: 13.9mm × 18.5mm
 
 <h2>
- 📌 [터치판넬 프로그램은 다음 사이트를 참조하세요](https://github.com/kdi6033/i2r#-iot-plc-hmi-%ED%95%9C%EA%B8%80-%ED%84%B0%EC%B9%98%EC%8A%A4%ED%81%AC%EB%A6%B0-chatgpt)
+  📌 <a href="https://github.com/kdi6033/i2r#-iot-plc-hmi-%ED%95%9C%EA%B8%80-%ED%84%B0%EC%B9%98%EC%8A%A4%ED%81%AC%EB%A6%B0-chatgpt">
+    터치판넬 프로그램은 다음 사이트를 참조하세요
+  </a>
 </h2>
 
