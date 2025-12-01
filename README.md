@@ -130,10 +130,10 @@ WSM 시리즈 모터(4035 포함)는 **내부에 리미트 스위치(limit switc
 
 <br>     
 <details>
-    <summary>💻 HMI 터치스크린 프로그램</summary>
+    <summary>💻 HMI 터치판넬 프로그램</summary>
 
 ```c
-// ✅ 여기에 C 코드 작성
+// ✅ HMI 터치판넬 프로그램
 //원본 2025.11.27
 //on 연두색 0x32CD32 : off 회색 0xC0C0C0
 #include <lvgl.h>
