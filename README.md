@@ -16,8 +16,11 @@ WiFi Bluetooth PLC (4채널 릴레이, , ESP32) KC인증
 
 스마트폰에 어플 설치와 와이파이 연결을 보여줍니다. 그림을 크릭하세요  
 [아두이노 소스프로그램 링크](https://github.com/kdi6033/i2r-04/tree/main/0%20Source-Program-IoT/board-i2r-04)  
+
 [AWS 아두이노 소스프로그램 링크](https://github.com/kdi6033/i2r-04/tree/main/0%20Source-Program-IoT/board-i2r-04-aws)  
-[![21-3 안드로이드 어플 사용 블루투스 와이파이 MQTT 통신](https://img.youtube.com/vi/FT0muFM24xc/0.jpg)](https://youtu.be/FT0muFM24xc)
+
+[![21-3 안드로이드 어플 사용 블루투스 와이파이 MQTT 통신](https://img.youtube.com/vi/FT0muFM24xc/0.jpg)](https://youtu.be/FT0muFM24xc)    
+
  1) 8채널 릴레이  
 8채널 릴레이가 탑재된 보드입니다. 릴레이 출력단에 A접점을 활용해 장치를 연결할 수 있습니다.
 다양한 장치를 연결해서 손쉽게 원격제어 시스템을 구현해보세요. 모든 소스프로그램은 설명글 하단을 참조하세요.
@@ -31,8 +34,9 @@ ESP32가 탑재되어 WiFi, BLE 통신 가능합니다. WiFi 를 활용해 PC �
 BLE 를 활용해 근거리 제어가 가능합니다. IoT와 관련해 다양하게 활용 가능합니다.
 ![i2r-04-포트설명](https://drive.google.com/uc?id=1ADQGv7T-kg5jTpx5lF-GrZ1OTK7YDSBV)
 # AD 컨버터 입력전압 측정
-보드의 34, 35 핀에 AD콘버터가 있어서 전압을 측정할수 있습니다. 이를 측정하는 프로그램 설명 영상입니다.<br>
-[아두이노 소스프로그램 링크](https://github.com/kdi6033/i2r-04/blob/main/2%20volt%20value/voltValue/voltValue.ino)  
+보드의 34, 35 핀에 AD콘버터가 있어서 전압을 측정할수 있습니다. 이를 측정하는 프로그램 설명 영상입니다.<br>    
+[아두이노 소스프로그램 링크](https://github.com/kdi6033/i2r-04/blob/main/2%20volt%20value/voltValue/voltValue.ino)    
+
 [![Input Output 아두이노 프로그램](https://drive.google.com/uc?id=1XybM7WA4IEEQsOG3KhKcRVjbnA9dZqdu)](https://www.youtube.com/watch?v=lZQ763ljGjE)
 
 # MQTT 통신 연결하기
