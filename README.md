@@ -36,7 +36,7 @@ WiFi Bluetooth PLC (4채널 릴레이, , ESP32) KC인증
 
 # AD 컨버터 입력전압 측정
 - 보드의 34, 35 핀에 AD콘버터가 있어서 전압을 측정할수 있습니다. 이를 측정하는 프로그램 설명 영상입니다.<br>
-- 
+
 [아두이노 소스프로그램 링크](https://github.com/kdi6033/i2r-04/blob/main/2%20volt%20value/voltValue/voltValue.ino)    
 
 [![Input Output 아두이노 프로그램](https://drive.google.com/uc?id=1XybM7WA4IEEQsOG3KhKcRVjbnA9dZqdu)](https://www.youtube.com/watch?v=lZQ763ljGjE)
