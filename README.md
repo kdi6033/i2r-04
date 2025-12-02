@@ -29,12 +29,14 @@ WiFi Bluetooth PLC (4채널 릴레이, , ESP32) KC인증
 입력 : 18 19 4 5 21 22 23 15
 <img src="https://drive.google.com/uc?id=1X0wcNuqFN-zJ07sOzUsBimr1k4QfJlmA" alt="i2r-02-포트설명" width="700">
 1) WiFi, BLE 통신  
-ESP32가 탑재되어 WiFi, BLE 통신 가능합니다. WiFi 를 활용해 PC 및 스마트폰에서 4채널 릴레이를
-원격제어 및 모니터링 가능합니다. 
-BLE 를 활용해 근거리 제어가 가능합니다. IoT와 관련해 다양하게 활용 가능합니다.
-![i2r-04-포트설명](https://drive.google.com/uc?id=1ADQGv7T-kg5jTpx5lF-GrZ1OTK7YDSBV)
+- ESP32가 탑재되어 WiFi, BLE 통신 가능합니다. WiFi 를 활용해 PC 및 스마트폰에서 4채널 릴레이를 원격제어 및 모니터링 가능합니다. 
+- BLE 를 활용해 근거리 제어가 가능합니다. IoT와 관련해 다양하게 활용 가능합니다.
+
+![i2r-04-포트설명](https://drive.google.com/uc?id=1ADQGv7T-kg5jTpx5lF-GrZ1OTK7YDSBV)    
+
 # AD 컨버터 입력전압 측정
-보드의 34, 35 핀에 AD콘버터가 있어서 전압을 측정할수 있습니다. 이를 측정하는 프로그램 설명 영상입니다.<br>    
+- 보드의 34, 35 핀에 AD콘버터가 있어서 전압을 측정할수 있습니다. 이를 측정하는 프로그램 설명 영상입니다.<br>
+- 
 [아두이노 소스프로그램 링크](https://github.com/kdi6033/i2r-04/blob/main/2%20volt%20value/voltValue/voltValue.ino)    
 
 [![Input Output 아두이노 프로그램](https://drive.google.com/uc?id=1XybM7WA4IEEQsOG3KhKcRVjbnA9dZqdu)](https://www.youtube.com/watch?v=lZQ763ljGjE)
