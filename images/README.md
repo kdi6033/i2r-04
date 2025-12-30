@@ -9,3 +9,4 @@
 | <img src="https://github.com/kdi6033/i2r-04/blob/main/images/i2r-04-kc.jpg?raw=true" width="200"> | <img src="https://github.com/kdi6033/i2r-04/blob/main/images/case-i2r04-kc.png?raw=true" width="200"> | <img src="https://github.com/kdi6033/i2r-04/blob/main/images/i2r-04-motor-circiut.jpg?raw=true" width="200"> | <img src="https://github.com/kdi6033/i2r-04/blob/main/images/i2r-04-circuit.png?raw=true" width="200"> |
 | <img src="https://github.com/kdi6033/i2r-04/blob/main/images/i2r-04-hmi.png?raw=true" width="200"> |  | | |
 
+
